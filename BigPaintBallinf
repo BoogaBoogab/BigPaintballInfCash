@@ -1,0 +1,3 @@
+while wait() do
+require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library")).Network.Fire("Drop Care Package");
+end
